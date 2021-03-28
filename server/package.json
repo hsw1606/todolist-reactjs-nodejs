@@ -1,0 +1,15 @@
+{
+  "name": "todolist_server",
+  "version": "1.0.0",
+  "description": "todolist api server",
+  "main": "index.js",
+  "keywords": [
+    "todolist",
+    "node.js"
+  ],
+  "author": "hsw1606",
+  "license": "ISC",
+  "scripts" : {
+    "start": "node src/"
+  }
+}
